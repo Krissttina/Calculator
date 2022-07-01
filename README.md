@@ -1,3 +1,3 @@
-# calculator
-This is a calculator app whitch  can calculate basic math exercises.
-First let's make a plan and a diagram and then made it in practice. 
+# Calculator
+  This is web site witch functionates like a real calculator.
+  The effects and functions are made with JavaScript.
